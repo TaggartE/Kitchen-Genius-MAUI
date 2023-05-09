@@ -1,13 +1,13 @@
 # Kitchen-Genius-MAUI
 
-Roadmap:
-Preliminary drafting
-Design database and hosting
-Design and code model
-create console application to test database / model
-Create IOS application
-Create Android application
-Create Desktop application
-Share with the world
-
+Roadmap: <br /> <br />
+Preliminary drafting <br />
+Design database and hosting <br />
+Design and code model <br />
+create console application to test database / model <br />
+Create IOS application <br />
+Create Android application <br />
+Create Desktop application <br />
+Share with the world <br />
+<br />
 V2 of Kitchen Genius. Multi-Platform. Overengineered.
